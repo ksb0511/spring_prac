@@ -1,0 +1,77 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>☆모바일앱☆</title>
+<style>
+body {font-size: 20px;
+       color:#008299;
+       font-family:"휴먼편지체";
+       background:url(gurumi.jpg)}
+
+h1 {color:blue;}
+h2 {color:white;}
+p {font-family:'휴먼모음T';
+   color:#4641D9;}
+
+a:hover {font-size:30px;}
+
+#best { background-color:yellow;}
+
+</style>
+
+
+</head>
+<body>
+<h1>ComputerScience</h1>
+<h2>강 &nbsp;&nbsp;&nbsp; 수빈</h2>
+
+
+<h1><a href=table.html target=_blank>시간표</a></h1>
+<h1><a href=css1.html target=_blank>css1</a></h1>
+<h1><a href=ex1.html target=_blank>ex1</a></h1>
+<h1><a href=ex2(1).html target=_blank>★ex2(181012과제물)★</a></h1>
+<h1><a href=ph1.html target=_blank>※ph1(181026, 포토샵)※</a></h1>
+<h1 id=best>*SCRATCH</h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/259663403/ target=_blank>1. 여행</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/260867144/ target=_blank>2. 2급_1(5)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/260868320/ target=_blank>2. 2급_1(6)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/261352510/ target=_blank>2. 2급_1(7)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/261360384/ target=_blank>2. 2급_1(8)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/261362305/ target=_blank>3. 1급(9)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/262594884/ target=_blank>3. 1급(10)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/262597239/ target=_blank>4. 2급_2(4)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/263131457/ target=_blank>4. 2급_2(5)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/263132681/ target=_blank>4. 2급_2(6)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/263134858/ target=_blank>4. 2급_2(7)</a></h1>
+<h1 id=best><a href=https://scratch.mit.edu/projects/263136297/ target=_blank>4. 2급_2(8)</a></h1>
+
+
+
+<p>저는 현재 <a href=http://www.ds.ac.kr target="_blank">덕성여대</a> 2학년에 <br>재학중입니다.</p>
+<p>전공은 <b>Computer</b>입니다.</p>
+<a href=http://www.naver.com target="_blank"><img src="" row=200 height=200></a>
+<!--h1>My Favorite things</h1--!>
+<ol>
+<ol type="I">
+<li>여행</li>
+<li>맛집</li>
+<li>음악</li>
+</ol>
+<div align=center>
+<audio src="so.mp3" controls autoplay loop></audio><p>
+<audio src="All.mp3" controls autoplay loop></audio><p>
+<video src=dd.mp4 controls autoplay></video>
+</div>
+<p>
+<img src="umzzal.gif" row=200 height=200 title="Raining">
+<img src="umzzal.gif" row=200 height=200>
+<img src="umzzal.gif" row=200 height=200>
+<img src="umzzal.gif" row=200 height=200>
+<p>
+
+<img src="" row=200 height=200>
+<img src="" row=200 height=200>
+<img src="" row=200 height=200>
+
+</body>
+</html>
