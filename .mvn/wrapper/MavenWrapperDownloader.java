@@ -14,6 +14,9 @@
  * limitations under the License.
  */
 
+import java.net.*;
+import java.io.*;
+import java.nio.channels.*;
 
 public class MavenWrapperDownloader {
 
